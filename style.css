@@ -5,7 +5,6 @@
   font-size: 18px;
   font-family: "Bai Jamjuree", sans-serif;
   color: var(--Dark-Grayish-Blue);
-  /* - Weights: 400, 600 */
 }
 
 html {
@@ -32,7 +31,7 @@ body {
   --Dark-Grayish-Blue: hsl(210, 10%, 33%);
   --Grayish-Blue: hsl(201, 11%, 66%);
 }
-
+/*
 .sr-only {
   position: absolute;
   width: 1px;
@@ -42,7 +41,7 @@ body {
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
-
+*/
 .page-container {
   display: flex;
   flex-direction: column;
@@ -231,6 +230,7 @@ footer {
   color: hsl(228, 45%, 44%);
 }
 
+/*
 @media screen and (min-width: 700px) {
   .page-container {
     max-width: 39.4rem;
@@ -285,7 +285,7 @@ footer {
   .box-subtittle-text {
     font-size: 0.9rem;
   }
-  /* 
+  
 
   .box {
     display: grid;
@@ -299,9 +299,10 @@ footer {
 
   .box-logo {
     margin: 1rem;
-  } */
+  }
 
   .footer__logo {
     width: 10%;
   }
-}
+} 
+*/
