@@ -211,6 +211,7 @@ footer {
 .social__btn {
   margin: 0 auto;
   padding: 0.7rem;
+  cursor: pointer;
 }
 
 .social__btn-icon {
