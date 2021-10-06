@@ -245,7 +245,8 @@ footer {
 
 @media screen and (min-width: 700px) {
   .page-container {
-    max-width: 85%;
+    width: 85%;
+    max-width: 865px;
   }
 
   .content__box {
@@ -365,7 +366,7 @@ footer {
   }
 
   .page-container {
-    max-width: 60%;
+    width: 60%;
   }
 
   .tittle__logo,
